@@ -1,0 +1,4 @@
+keybert
+scikit-learn
+gradio
+sentence-transformers
