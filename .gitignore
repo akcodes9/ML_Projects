@@ -8,3 +8,12 @@ venv/
 *~
 *.pyc
 __pycache__/
+
+#IGNORE ALL .ENV AND VENV
+*.env
+*.venv
+
+#AMD PREDICTOR FILES TO BE IGNORED
+4_AMD_StockPredictor_backup/models
+4_AMD_StockPredictor_backup/.idea
+
